@@ -26,28 +26,6 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 [Back To The Top](#read-me-template)
 
----
-
-## How To Use
-
-#### Installation
-
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
-
----
-
 ## License
 
 MIT License
