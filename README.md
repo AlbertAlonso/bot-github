@@ -32,9 +32,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [Back To The Top](#read-me-template)
-
----
-
 ## Author Info
 
 - Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
