@@ -14,7 +14,7 @@ You're sections headers will be used to reference location of destination.
   - [Author Info](#author-info)
 
 ---
-
+#deit by mario aldi putra
 ## Description
 
 Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
