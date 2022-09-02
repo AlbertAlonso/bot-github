@@ -2,17 +2,6 @@
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [Read Me Template](#read-me-template)
-    - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-      - [Technologies](#technologies)
-  - [How To Use](#how-to-use)
-      - [Installation](#installation)
-      - [API Reference](#api-reference)
-  - [References](#references)
-  - [License](#license)
-  - [Author Info](#author-info)
-
 ---
 #deit by mario aldi putra
 ## Description
